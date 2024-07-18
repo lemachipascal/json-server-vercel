@@ -1,9 +1,106 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "activities": [
+    {
+      "id": 1,
+      "time": "08:00",
+      "activity": "Morning Exercise"
+    },
+    {
+      "id": 2,
+      "time": "09:00",
+      "activity": "Breakfast"
+    },
+    {
+      "id": 3,
+      "time": "10:00",
+      "activity": "Study Session"
+    },
+    {
+      "id": 4,
+      "time": "11:00",
+      "activity": "Lunch"
+    },
+    {
+      "id": 5,
+      "time": "12:00",
+      "activity": "Sleep"
+    },
+    {
+      "id": 6,
+      "time": "13:00",
+      "activity": "Study Session"
+    },
+    {
+      "id": "d227",
+      "time": "14:00",
+      "activity": "Playing x-box"
+    },
+    {
+      "id": "5e05",
+      "time": "15:00",
+      "activity": "Going for a smal shopiing"
+    },
+    {
+      "id": "e577",
+      "time": "17:17",
+      "activity": "Playing x-box"
+    },
+    {
+      "id": "7f50",
+      "time": "01:05",
+      "activity": "Playing x-box"
+    },
+    {
+      "id": "9777",
+      "time": "12:08",
+      "activity": "Going for a smal shopiing"
+    },
+    {
+      "id": "dff9",   
+      "time": "19:44",
+      "activity": "Playing x-box"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "diaryEntries": [
+    {
+      "id": 1,
+      "date": "2023-08-15",
+      "entry": "Today, I had a productive day. I completed my assignments and had a great time with friends. I also had a delicious lunch."
+    },
+    {
+      "id": 2,
+      "date": "2023-08-16",
+      "entry": "Today, I had a wonderfull day.I made my first six figures. Thanks the almighty God."
+    },
+    {
+      "id": "33be",
+      "date": "2023-06-16",
+      "entry": "today was wonderful"
+    },
+    {
+      "id": "5161",
+      "date": "2024-07-11",
+      "entry": "today was great"
+    },
+    {
+      "id": "3582",
+      "date": "",
+      "entry": "hello"
+    },
+    {
+      "id": "7748",
+      "date": "2024-07-19",
+      "entry": "Today, I had a wonderfull day.I made my first six figures. Thanks the almighty God."
+    },
+    {
+      "id": "560f",
+      "date": "2024-07-19",
+      "entry": "Today, I had a wonderfull day.I made my first six figures. Thanks the almighty God."
+    },
+    {
+      "id": "9eb7",
+      "date": "2024-07-19",
+      "entry": "Today, I had a wonderfull day.I made my first six figures. Thanks the almighty God."
+    }
+  ]
 }
